@@ -9,7 +9,7 @@ namespace EntityFrameworkDemo.Data
 
         public DbSet<Contact> ContactList { get; set; }
 
-       
+        
     }
 
     
